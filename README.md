@@ -2,7 +2,7 @@
 
 ## Support
 
-https://www.buymeacoffe.com/syarifhidayat
+https://www.buymeacoffee.com/syarifhidayat
 https://sociabuzz.com/syarifhidayatullah2020/tribe
 
 ## UI/UX
