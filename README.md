@@ -20,3 +20,4 @@ https://youtu.be/fV67vy7fJI
 <img src="assets/previews/package.png" alt="Package" width="200">
 <img src="assets/previews/detail.png" alt="Detail" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.music_app_ui"/>  
